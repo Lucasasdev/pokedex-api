@@ -1,11 +1,21 @@
 # Pokedex API
 
+## Objetivo
+Listar todos o pokemons da primeira geração mostrando o tipo de cada um.
+
+## Conceitos ultilizados e experiência adquirida
+<ul>
+  <li>Conexão com um API usando o método fetch e promise</li>
+  <li>Responsividade</li>
+</ul>
+
 Neste projeto e listado os pokemons da primeira geração, em cada um é apresentado o seu tipo.
-Projeto desenvolvido na trilha no Bootcamp DIO e Santander, Dominando o protocolo HTTP e integrando com a PokeApi.
+Projeto desenvolvido na trilha no Bootcamp DIO e Santander, Dominando o protocolo HTTP e integrando com a PokéApi.
 
-<img src="https://github.com/Lucasasdev/Pokedex-API/blob/master/img/pokemon-list.png" alt="api-image">
+<img src="https://github.com/Lucasasdev/Pokedex-API/blob/master/img/pokemon-list.png" alt="project-image" width="700px" height="500">
 
-#### Link para visualizar o projeto: https://coruscating-kashata-b29e07.netlify.app/
+### Link para o projeto:
+https://coruscating-kashata-b29e07.netlify.app/
 
 ### Requisitos para executar:
 Clone o projeto para uma pasta de sua preferência usando `git clone https://github.com/Lucasasdev/Pokedex_api.git` em seguida instale o pacote http-server
