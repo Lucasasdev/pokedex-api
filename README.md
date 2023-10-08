@@ -12,7 +12,7 @@ Listar todos o pokemons da primeira geração mostrando o tipo de cada um.
 Neste projeto e listado os pokemons da primeira geração, em cada um é apresentado o seu tipo.
 Projeto desenvolvido na trilha no Bootcamp DIO e Santander, Dominando o protocolo HTTP e integrando com a PokéApi.
 
-<img src="https://github.com/Lucasasdev/Pokedex-API/blob/master/img/pokemon-list.png" alt="project-image" width="700px" height="500">
+<img src="https://github.com/Lucasasdev/Pokedex-API/blob/master/img/pokemon-list.png" alt="project-image">
 
 ### Link para o projeto:
 https://coruscating-kashata-b29e07.netlify.app/
